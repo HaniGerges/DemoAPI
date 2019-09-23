@@ -2,67 +2,31 @@
   {
     "title": "Maintenance",
     "code": "Maintenance",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+    "description": "Lorem ipsum ",
     "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=11",
     "services":[
       {
         "code": "",
         "title": "Cleaning and home works",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=11",
         "services": [
           {
             "code": "",
             "title": "cleaning commercial buildings",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=12"
           },
           {
             "code": "",
-            "title": "cleaning of finishing wastes ",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
-            "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=13"
-          },
-          {
-            "code": "",
-            "title": "cleaning water tanks",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
-            "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=14"
-          },
-          {
-            "code": "",
-            "title": "cook",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
-            "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=15"
-          },
-          {
-            "code": "",
-            "title": "maid",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
-            "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=16"
-          },
-          {
-            "code": "",
-            "title": "nanny",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
-            "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=17"
-          },
-          {
-            "code": "",
-            "title": "washing carpets ",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
-            "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=18"
-          },
-          {
-            "code": "",
             "title": "washing curtains ",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=19"
           },
           {
             "code": "",
             "title": "other ",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=10"
           }
         ]
@@ -70,13 +34,13 @@
       {
         "code": "",
         "title": "Plumbing",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=111",
         "services": [
           {
             "code": "",
             "title": "Title",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=122"
           }
         ]
@@ -84,13 +48,13 @@
       {
         "code": "",
         "title": "A.C technicians",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=133",
         "services": [
           {
             "code": "",
             "title": "Title",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=144"
           }
         ]
@@ -98,13 +62,13 @@
       {
         "code": "",
         "title": "Electrical work",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=155",
         "services": [
           {
             "code": "",
             "title": "Title",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=166"
           }
         ]
@@ -112,13 +76,13 @@
       {
         "code": "",
         "title": "Special Finishing services",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=177",
         "services": [
           {
             "code": "",
             "title": "Title",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=188"
           }
         ]
@@ -126,13 +90,13 @@
       {
         "code": "",
         "title": "Furniture relocation",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=199",
         "services": [
           {
             "code": "",
             "title": "Title",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=100"
           }
         ]
@@ -140,13 +104,13 @@
       {
         "code": "",
         "title": "Satellite technician",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=1121",
         "services": [
           {
             "code": "",
             "title": "Title",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=1232"
           }
         ]
@@ -154,13 +118,13 @@
       {
         "code": "",
         "title": "Electronic devices",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=1343",
         "services": [
           {
             "code": "",
             "title": "Title",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=14545"
           }
         ]
@@ -168,13 +132,13 @@
       {
         "code": "",
         "title": "Pest control",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=15656",
         "services": [
           {
             "code": "",
             "title": "Title",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=16767"
           }
         ]
@@ -182,13 +146,13 @@
       {
         "code": "",
         "title": "Aluminum work",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=17878",
         "services": [
           {
             "code": "",
             "title": "Title",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=178787"
           }
         ]
@@ -196,13 +160,13 @@
       {
         "code": "",
         "title": "Blacksmith work",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=189898",
         "services": [
           {
             "code": "",
             "title": "Title",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=19090"
           }
         ]
@@ -210,13 +174,13 @@
       {
         "code": "",
         "title": "Gardening & outdoor",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=18585",
         "services": [
           {
             "code": "",
             "title": "Title",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=17574"
           }
         ]
@@ -224,13 +188,13 @@
       {
         "code": "",
         "title": "Landscapes",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=14574",
         "services": [
           {
             "code": "",
             "title": "Title",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=123453245"
           }
         ]
@@ -238,13 +202,13 @@
       {
         "code": "",
         "title": "Laundry",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+        "description": "Lorem ipsum ",
         "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=1235252",
         "services": [
           {
             "code": "",
             "title": "Title",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+            "description": "Lorem ipsum ",
             "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=14565"
           }
         ]
@@ -254,25 +218,25 @@
   {
     "title": "Finishing",
     "code": "Finishing",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+    "description": "Lorem ipsum ",
     "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=111"
   },
   {
     "title": "Special Tasks",
     "code": "SpecialTasks",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+    "description": "Lorem ipsum ",
     "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=111"
   },
   {
     "title": "Management",
     "code": "Management",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+    "description": "Lorem ipsum ",
     "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=155"
   },
   {
     "title": "Admin Tasks",
     "code": "AdminTasks",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultrices luctus ligula, non varius ipsum pretium sit amet. Integer id erat eu quam tempor sollicitudin. Proin sed mattis nisi, eu mattis massa. Nunc ut tellus id sem rutrum dignissim efficitur sit amet metus.",
+    "description": "Lorem ipsum ",
     "iconUrl": "https://lorempixel.com/100/100/abstract/?rnd=199"
   }
 ]
